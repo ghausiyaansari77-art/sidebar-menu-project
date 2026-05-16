@@ -1,12 +1,15 @@
 # Sidebar Menu Project
 A simple sidebar menu mini project created using HTML and CSS.
-##Features
+
+## Features
 - Responsive sidebar menu
 - Bavkground image
 - Smooth UI design
-  ## Technologies used
+  
+## Technologies used
   - HTML
   - CSS
-    ## Author
-    Ghausiya Ansari
+    
+## Author
+    Ghausiya Ansari.
   
